@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo-568267205) , estou cursando faculdade de Análise e Desenvolvimento de Sistemas na Unicesumar , sou uma profissional altamente focada, organizada e objetiva, com uma paixão por tecnologia. Minha base técnica inclui JavaScript, Python, HTML e CSS, sustentada por conhecimentos em Engenharia de Software, Lógica de Programação e Segurança da Informação. Com experiência em Marketing e Vendas e Design gráfico, trago uma perspectiva multidisciplinar e a capacidade de aprender muito rápido. Busco uma posição de Estágio ou Júnior para contribuir ativamente em um ambiente tecnológico desafiador.
+Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo-568267205) , estou cursando faculdade de Análise e Desenvolvimento de Sistemas na Unicesumar , sou uma profissional altamente focada, organizada e objetiva, com uma paixão por tecnologia. Minha base técnica inclui JavaScript, HTML e CSS, Python , Linguagem C , PHP sustentada por conhecimentos em Engenharia de Software, Lógica de Programação e Segurança da Informação. Com experiência em Marketing e Vendas e Design gráfico, trago uma perspectiva multidisciplinar e a capacidade de aprender muito rápido. Busco uma posição de Estágio ou Júnior para contribuir ativamente em um ambiente tecnológico desafiador.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -89,6 +89,33 @@ Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+<img
+    align="left" 
+    alt="Pycharm" 
+    title="Pycharm"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" 
+    />
+ <img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+     />
+ <img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+     />
+          
+          
+          
 
 <br/>
 <br/>
