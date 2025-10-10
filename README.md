@@ -81,9 +81,6 @@ Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-
 <img 
     align="left" 
     alt="Linguagem C" 
