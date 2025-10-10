@@ -83,6 +83,17 @@ Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo
 />
 
 <br/>
+
+<img 
+    align="left" 
+    alt="Linguagem C" 
+    title="Linguagem C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<br/>
 <br/>
 
 ### 📊 Estatísticas
