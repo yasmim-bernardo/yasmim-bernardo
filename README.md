@@ -66,8 +66,8 @@ Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="Mysql" 
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
