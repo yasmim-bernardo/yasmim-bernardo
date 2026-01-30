@@ -2,7 +2,13 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo-568267205) , estou cursando faculdade de Análise e Desenvolvimento de Sistemas na Unicesumar , sou uma profissional altamente focada, organizada e objetiva, com uma paixão por tecnologia. Minha base técnica inclui JavaScript, HTML e CSS, Python , Linguagem C , PHP sustentada por conhecimentos em Engenharia de Software, Lógica de Programação e Segurança da Informação. Com experiência em Marketing e Vendas e Design gráfico, trago uma perspectiva multidisciplinar e a capacidade de aprender muito rápido. Busco uma posição de Estágio ou Júnior para contribuir ativamente em um ambiente tecnológico desafiador.
+Sou Yasmim Bernardo , [Meu linkedin](https://www.linkedin.com/in/yasmim-bernardo-568267205) , estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar, com foco em Desenvolvimento Front-end , Mobile e criação de interfaces modernas, responsivas e centradas no usuário.
+
+Atuo com HTML5, CSS3, JavaScript e possuo conhecimentos em consumo de APIs REST, integração com banco de dados (SQL), Lógica de Programação, Engenharia de Software e Segurança da Informação. Tenho familiaridade com responsividade, acessibilidade, boas práticas de código e versionamento.
+
+Minha experiência anterior em Design Gráfico, Marketing e Vendas fortalece minha visão de produto, usabilidade e experiência do usuário, permitindo criar soluções que unem estética, performance e objetivos de negócio.
+
+Sou organizada, focada, com aprendizado rápido e busco uma oportunidade como Desenvolvedora Front-end Júnior ou Estagiária, para evoluir tecnicamente e contribuir em projetos reais.
 
 ### 🤖 Linguagens e Tecnologias
 
