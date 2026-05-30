@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Sou Yasmim Bernardo , estudante de Análise e Desenvolvimento de Sistemas pela Unicesumar, com foco em Desenvolvimento Front-end , Mobile e criação de interfaces modernas, responsivas e centradas no usuário.
+Sou Yasmim Bernardo , estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Front-end , Mobile e criação de interfaces modernas, responsivas e centradas no usuário.
 
 Atuo com HTML5, CSS3, JavaScript e possuo conhecimentos em consumo de APIs REST, integração com banco de dados (SQL), Lógica de Programação, Engenharia de Software e Segurança da Informação. Tenho familiaridade com responsividade, acessibilidade, boas práticas de código e versionamento.
 
